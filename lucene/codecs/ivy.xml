@@ -20,6 +20,7 @@
   <info organisation="org.apache.lucene" module="codecs"/>
 
   <dependencies>
+    <!-- https://mvnrepository.com/artifact/com.github.luben/zstd-jni -->
     <dependency org="com.github.luben" name="zstd-jni" rev="1.5.0-4"/>
   </dependencies>
 </ivy-module>
